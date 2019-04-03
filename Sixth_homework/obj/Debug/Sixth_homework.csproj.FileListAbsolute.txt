@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\bin\Debug\Sixth_homework.exe
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\bin\Debug\Sixth_homework.pdb
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\obj\Debug\Sixth_homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\obj\Debug\Sixth_homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\obj\Debug\Sixth_homework.exe
+C:\Users\Санжар\source\repos\Sixth_homework\Sixth_homework\obj\Debug\Sixth_homework.pdb
